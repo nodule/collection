@@ -1,1 +1,1 @@
-output.out = [underscore, 'each', input.in]
+output.out = [underscore, 'each', $.in]
